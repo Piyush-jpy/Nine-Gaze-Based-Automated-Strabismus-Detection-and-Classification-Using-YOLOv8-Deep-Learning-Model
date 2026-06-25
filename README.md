@@ -101,7 +101,7 @@ This increased dataset diversity and reduced overfitting risk.
 
 ## Training Performance
 
-![Loss Curve](loss_plot.png)
+![Loss Curve](images/loss_plot.png)
 
 ---
 
