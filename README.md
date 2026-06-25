@@ -48,7 +48,7 @@ This increased dataset diversity and reduced overfitting risk.
 - Optimizer: Adam (lr = 0.001)
 - Hardware: Tesla T4 GPU
 - Split:
-  - Train: 70–80%
+  - Train: 70%
   - Validation: 20%
   - Test: 10%
 
