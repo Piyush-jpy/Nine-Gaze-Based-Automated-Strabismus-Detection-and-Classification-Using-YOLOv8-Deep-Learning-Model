@@ -92,10 +92,10 @@ This increased dataset diversity and reduced overfitting risk.
 ## Confusion Matrices
 
 ### Multi-class
-![Confusion Matrix](images/cm2.png)
+![Confusion Matrix](images/cm2.jpg)
 
 ### Binary
-![Binary Confusion Matrix](images/cm1.png)
+![Binary Confusion Matrix](images/cm1.jpg)
 
 ---
 
